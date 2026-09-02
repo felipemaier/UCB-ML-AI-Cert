@@ -12,3 +12,7 @@ This repository contains practical application assignments and supporting files 
 - [Assignment 11.1: What Drives the Price of a Car?](<./Assignment 11.1: What Drives the Price of a Car/>)
   - [Jupyter Notebook](<./Assignment 11.1: What Drives the Price of a Car/prompt_II.ipynb>)
   - [Assignment README](<./Assignment 11.1: What Drives the Price of a Car/README.md>)
+
+- [Assignment 17.1: Comparing Classifiers](<./Assignment 17.1: Comparing Classifiers/>)
+  - [Jupyter Notebook](<./Assignment 17.1: Comparing Classifiers/prompt_III.ipynb>)
+  - [Assignment README](<./Assignment 17.1: Comparing Classifiers/README.md>)
